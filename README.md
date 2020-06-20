@@ -1,1 +1,9 @@
 # nodebasic
+
+
+
+# steps
+
+```
+node .
+```
